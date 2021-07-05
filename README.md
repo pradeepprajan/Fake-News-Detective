@@ -7,3 +7,4 @@ This dashboard app classifies news headlines into 6 categories on the increasing
 
 Do check out my dashboard app at https://fake-news-headlines-detective.herokuapp.com/
 
+<h1> Libraries to be installed </h1>
