@@ -34,4 +34,6 @@ You can create an account and choose the suitable subscription plan. Free plans 
 
 <h3> A word of caution </h3>
 
-The data necessary for training of the model has been collected in adherence to the terms of use and the robots.txt file of the websites. It is highly recommended that the data be collected by using API keys as much as possible. Web scrapping tools must be used only if both the robots.txt and the terms of use do not prohibit from doing so. While using web scrapping tools,it must be ensured that too many HTTP requests to the same website are not made within a short time interval, as doing so will affect the website performance adversely and can make the website crash.
+The data necessary for training of the model has been collected in adherence to the terms of use and the robots.txt file of the websites. It is highly recommended that the data be collected by using API keys as much as possible. Web scrapping tools must be used only if both the robots.txt and the terms of use do not prohibit from doing so. While using web scrapping tools,it must be ensured that too many HTTP requests to the same website are not made within a short time interval, as doing so will affect the website performance adversely and can make the website crash. 
+
+Also, using the dataset for commercial purposes must be avoided.
