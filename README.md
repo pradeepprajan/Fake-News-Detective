@@ -18,6 +18,13 @@ Do check out my dashboard app at https://fake-news-headlines-detective.herokuapp
 5. Dash
 6. Dash Bootstrap Components
 
+<h3> Files in this repository </h3>
+
+News_classifier_train.ipynb - For training 
+News_classifier_test.ipynb - For classifying unseeen headlines
+Dashboard.ipynb - For creating dashboard app
+NewsArticles.csv - Train dataset of news headlines
+
 <h3> Site from which API key is obtained </h3>
 
 Newsdata.io
